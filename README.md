@@ -5,3 +5,4 @@ In this first part, we will carry out a short exploratory analysis after cleanin
 
 # Dataset 
 This is a dataset hosted by the City of Seattle. The city has an open data platform found here and they update their information according the amount of data that is brought in. Explore the City of Seattle using Kaggle and all of the data sources available through the City of Seattle organization page! 
+link to dataset: https://www.kaggle.com/code/hamadizarrouk/emissions-de-co2-seattle-cleaning-notebook/input
